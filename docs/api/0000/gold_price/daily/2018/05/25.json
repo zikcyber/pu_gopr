@@ -1,1 +1,1 @@
-{"date":{"year":2018,"month":5,"day":25},"items":[{"id":0,"typeName":"Vàng SJC 1L, 10L, 1KG","branch":"Hồ Chí Minh","buy":{"pricePerGram":973600.0,"currency":"vnd"},"sell":{"pricePerGram":978933.3333333334,"currency":"vnd"},"updatedAt":"2018-05-24T02:46:41.000"}],"branch":"Hồ Chí Minh"}
+{"date":{"year":2018,"month":5,"day":25},"open":{"buy":{"pricePerGram":973600.0,"currency":"vnd"},"sell":{"pricePerGram":978933.3333333334,"currency":"vnd"}},"close":{"buy":{"pricePerGram":973600.0,"currency":"vnd"},"sell":{"pricePerGram":978933.3333333334,"currency":"vnd"}},"details":[]}
